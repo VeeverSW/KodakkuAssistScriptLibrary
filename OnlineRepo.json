@@ -553,11 +553,12 @@
   {
     "Name": "LV.80 伊甸希望乐园 共鸣之章3",
     "Guid": "7732767d-bfb3-4c96-9719-962ba10cec08",
-    "Version": "0.0.0.2",
+    "Version": "0.0.0.3",
     "Author": "Veever",
     "DownloadUrl": "https://raw.githubusercontent.com/Karlin-Z/KodakkuAssistScriptLibrary/main/VeeverSW/05-Shadowbringers/Edens-Verse-Iconoclasm.cs",
-    "Note": "v0.0.0.2:\n1. 此脚本只用了一个arr回放进行测试，如果出现错画的问题，请dc@我并提供arr回放\n鸭门。",
-    "UpdateTime": "2026-09-13T11:35:15Z",
+    "Note": "v0.0.0.3:\n1. 此脚本只用了2个arr回放进行测试，如果出现错画的问题，请dc@我并提供arr回放\n鸭门。",
+    "UpdateInfo": "v0.0.0.3\n1. 修复了传送门的一些绘制错误问题\n2. 修复了光暗buff不绘制的问题\n3. 新增支持时间轴\n鸭门\n----------------------------------\n\nDuckmen.",
+    "UpdateTime": "2026-10-02T07:46:17Z",
     "TerritoryIds": [
       904
     ]
